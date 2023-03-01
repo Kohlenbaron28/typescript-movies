@@ -28,8 +28,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./srcf --fix",
-    "format": "prettier --write src/**/*.js",
-    "prepare": "cd .. && husky install front/.husky"
+    "format": "prettier --write src/**/*.js"
   },
   "eslintConfig": {
     "extends": [
